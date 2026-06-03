@@ -16,7 +16,7 @@ public class Par <K, V> {
     public V getValor(){
         return valor;
     }
-        public void setValor(V valor){
+    public void setValor(V valor){
         this.valor = valor;
     }
     
